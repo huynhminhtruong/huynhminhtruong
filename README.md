@@ -26,10 +26,10 @@
 I maintain a dedicated HomeLab environment to simulate enterprise-grade infrastructures, focusing on **System Administration**, **Network Security**, and **DevOps** workflows.
 
 **Key Architectures:**
-* **Security Infrastructure:** Implemented a **Bastion Host (Jump Server)** as a single point of entry to secure internal network segments via SSH tunneling.
-* **Networking & DNS:** Configured **Internal DNS** and static networking using **Netplan** on Ubuntu/Kali Linux to manage a complex local environment of virtual machines.
+* **Security Infrastructure:** Implemented a **Bastion Host** as a single point of entry to secure internal network segments via SSH tunneling.
+* **Networking & DNS:** Configured **Internal DNS** and static networking using on Ubuntu/Kali Linux to manage a complex local environment of virtual machines.
 * **Virtualization & Containers:** Orchestrated multi-service environments using **VMware** and **Docker Compose**, focusing on isolation and resource optimization.
-* **Security Auditing:** Conducting regular **Web Pentesting** (SQLi, XSS, SSRF) and vulnerability assessments within this isolated lab to refine my offensive and defensive skill sets.
+* **Security Auditing:** Conducting regular **Web Pentesting** and vulnerability assessments within this isolated lab to refine my offensive and defensive skill sets.
 
 ---
 
