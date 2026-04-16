@@ -35,6 +35,14 @@ I maintain a dedicated HomeLab environment to simulate enterprise-grade infrastr
 
 ---
 
+### 🚀 Future Roadmap & Scaling
+> *Continuously evolving from virtualized environments to dedicated hardware.*
+
+* **Bare-metal Transition:** Planning to migrate core services from virtualization to a dedicated **Mini PC Server** to achieve better performance and simulate real-world data center operations.
+* **Self-Hosting:** Aiming to host personal tools and security labs on a 24/7 dedicated local node.
+
+---
+
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/huynhminhtruong](https://linkedin.com/in/huynhminhtruong)
 - **Portfolio:** [huynhminhtruong.github.io/resume/](https://huynhminhtruong.github.io/resume/)
