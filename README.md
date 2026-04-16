@@ -31,12 +31,9 @@ I maintain a dedicated HomeLab environment to simulate enterprise-grade infrastr
 * **Virtualization & Containers:** Orchestrated multi-service environments using **VMware** and **Docker Compose**, focusing on isolation and resource optimization.
 * **Security Auditing:** Conducting regular **Web Pentesting** and vulnerability assessments within this isolated lab to refine my offensive and defensive skill sets.
 * **On-premise Infrastructure Mastery:** While currently focusing on maximizing the potential of my local hardware, I am actively prototyping:
-<details>
-<summary><b>🔍 View more ongoing research concepts</b></summary>
-    - <b>Log Management:</b> Centralizing system logs for better visibility and incident response.<br />
-    - <b>Network Hardening:</b> Implementing strict firewall rules and monitoring internal traffic.<br />
-    - <b>Automation:</b> Scripting repetitive sysadmin tasks to improve lab efficiency.<br />
-</details>
+    * **Log Management:** Centralizing system logs for better visibility and incident response.
+    * **Network Hardening:** Implementing strict firewall rules and monitoring internal traffic.
+    * **Automation:** Scripting repetitive sysadmin tasks to improve lab efficiency.
 
 > *I prioritize deep-diving into on-premise fundamentals—understanding how every packet moves and every process executes—before scaling my research further.*
 
