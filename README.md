@@ -30,6 +30,15 @@ I maintain a dedicated HomeLab environment to simulate enterprise-grade infrastr
 * **Networking & DNS:** Configured **Internal DNS** and static networking using on Ubuntu/Kali Linux to manage a complex local environment of virtual machines.
 * **Virtualization & Containers:** Orchestrated multi-service environments using **VMware** and **Docker Compose**, focusing on isolation and resource optimization.
 * **Security Auditing:** Conducting regular **Web Pentesting** and vulnerability assessments within this isolated lab to refine my offensive and defensive skill sets.
+<details>
+<summary><b>🔍 View more ongoing research concepts</b></summary>
+* **On-premise Infrastructure Mastery:** While currently focusing on maximizing the potential of my local hardware, I am actively prototyping:
+    * **Log Management:** Centralizing system logs for better visibility and incident response.
+    * **Network Hardening:** Implementing strict firewall rules and monitoring internal traffic.
+    * **Automation:** Scripting repetitive sysadmin tasks to improve lab efficiency.
+</details>
+
+> *I prioritize deep-diving into on-premise fundamentals—understanding how every packet moves and every process executes—before scaling my research further.*
 
 ---
 
