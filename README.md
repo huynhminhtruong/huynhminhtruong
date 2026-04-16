@@ -9,13 +9,29 @@
 - 🔭 I’m currently pivoting from Software Development to **DevSecOps** and **Site Reliability Engineering**.
 - 🔐 Deep diving into **Web Hacking** and **Network Security**.
 - 🏗️ Building a **HomeLab** environment for testing SSH Bastion Servers and Internal DNS.
-- ⚡ Fun fact: I prefer native connections (DisplayPort > HDMI) and modular, clean code.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 - **OS:** Ubuntu, Windows.
 - **Languages:** Golang, Python (FastAPI), JavaScript.
 - **DevOps/Infra:** Docker, Nginx, VMware, Networking.
 - **Security Tools:** Burp Suite, Nmap, SQLmap.
+
+---
+
+### 🏠 HomeLab & Research Showcase
+> *Transforming a career gap into a period of intensive technical growth through hands-on infrastructure and security research.*
+
+I maintain a dedicated HomeLab environment to simulate enterprise-grade infrastructures, focusing on **System Administration**, **Network Security**, and **DevOps** workflows.
+
+**Key Architectures:**
+* **Security Infrastructure:** Implemented a **Bastion Host (Jump Server)** as a single point of entry to secure internal network segments via SSH tunneling.
+* **Networking & DNS:** Configured **Internal DNS** and static networking using **Netplan** on Ubuntu/Kali Linux to manage a complex local environment of virtual machines.
+* **Virtualization & Containers:** Orchestrated multi-service environments using **VMware** and **Docker Compose**, focusing on isolation and resource optimization.
+* **Security Auditing:** Conducting regular **Web Pentesting** (SQLi, XSS, SSRF) and vulnerability assessments within this isolated lab to refine my offensive and defensive skill sets.
+
+---
 
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/huynhminhtruong](https://linkedin.com/in/huynhminhtruong)
